@@ -1,0 +1,1002 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "linkedlist.Main",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "Runner",
+      "request": "launch",
+      "mainClass": "linkedlist.Runner",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "LengthOfLL",
+      "request": "launch",
+      "mainClass": "test.LengthOfLL",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "LengthOfLL",
+      "request": "launch",
+      "mainClass": "LengthOfLL",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "LengthOfLL",
+      "request": "launch",
+      "mainClass": "linkedlist.LengthOfLL",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "LengthOfSinglyLinkedList",
+      "request": "launch",
+      "mainClass": "linkedlist.LengthOfSinglyLinkedList",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PolynomialClass",
+      "request": "launch",
+      "mainClass": "oops.PolynomialClass",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "ComplexNumbers",
+      "request": "launch",
+      "mainClass": "oops.ComplexNumbers",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "SplitArray",
+      "request": "launch",
+      "mainClass": "test4.SplitArray",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "MinimumCount",
+      "request": "launch",
+      "mainClass": "test4.MinimumCount",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "MaximumProfitOnApp",
+      "request": "launch",
+      "mainClass": "test4.MaximumProfitOnApp",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "Print2DArray",
+      "request": "launch",
+      "mainClass": "test4.Print2DArray",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "StairCase",
+      "request": "launch",
+      "mainClass": "recursion.StairCase",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CheckAB",
+      "request": "launch",
+      "mainClass": "recursion.CheckAB",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PairStar",
+      "request": "launch",
+      "mainClass": "recursion.PairStar",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "StringToInteger",
+      "request": "launch",
+      "mainClass": "recursion.StringToInteger",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CountZeros",
+      "request": "launch",
+      "mainClass": "recursion.CountZeros",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "Multiplication",
+      "request": "launch",
+      "mainClass": "recursion.Multiplication",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "SumOfDigits",
+      "request": "launch",
+      "mainClass": "recursion.SumOfDigits",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CheckPalindrome",
+      "request": "launch",
+      "mainClass": "recursion.CheckPalindrome",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "GeometricSum",
+      "request": "launch",
+      "mainClass": "recursion.GeometricSum",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "TowerOfHanoi",
+      "request": "launch",
+      "mainClass": "recursion.TowerOfHanoi",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "QuickSort",
+      "request": "launch",
+      "mainClass": "recursion.QuickSort",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "recursion.MergeSort",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "RemoveDuplicatesRecursively",
+      "request": "launch",
+      "mainClass": "recursion.RemoveDuplicatesRecursively",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "RemoveX",
+      "request": "launch",
+      "mainClass": "recursion.RemoveX",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "LastIndexOfANumberInAnArray",
+      "request": "launch",
+      "mainClass": "recursion.LastIndexOfANumberInAnArray",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "FirstIndexOfANumberInAnArray",
+      "request": "launch",
+      "mainClass": "recursion.FirstIndexOfANumberInAnArray",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CheckNumberInArray",
+      "request": "launch",
+      "mainClass": "recursion.CheckNumberInArray",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "SumOfArray",
+      "request": "launch",
+      "mainClass": "recursion.SumOfArray",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PrintFirstNNaturalNumbers",
+      "request": "launch",
+      "mainClass": "recursion.PrintFirstNNaturalNumbers",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "NumberOfDigits",
+      "request": "launch",
+      "mainClass": "recursion.NumberOfDigits",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CalculatePower",
+      "request": "launch",
+      "mainClass": "recursion.CalculatePower",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "FaultyKeyboard",
+      "request": "launch",
+      "mainClass": "course_test1.FaultyKeyboard",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "FindMaximumSubarraySum",
+      "request": "launch",
+      "mainClass": "course_test1.FindMaximumSubarraySum",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "RectangularNumbers",
+      "request": "launch",
+      "mainClass": "course_test1.RectangularNumbers",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "MaximiseTheSum",
+      "request": "launch",
+      "mainClass": "test3.MaximiseTheSum",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "MinimumLengthWord",
+      "request": "launch",
+      "mainClass": "test3.MinimumLengthWord",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "FindLeadersInArray",
+      "request": "launch",
+      "mainClass": "test3.FindLeadersInArray",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "RotateArray",
+      "request": "launch",
+      "mainClass": "time_complexity.RotateArray",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PalindromeNumber",
+      "request": "launch",
+      "console": "integratedTerminal",
+      "mainClass": "test1.PalindromeNumber",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "TripletSum",
+      "request": "launch",
+      "mainClass": "time_complexity.TripletSum",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PairSumInArray",
+      "request": "launch",
+      "mainClass": "time_complexity.PairSumInArray",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "DuplicateArray",
+      "request": "launch",
+      "mainClass": "time_complexity.DuplicateArray",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "FindUniqueElement",
+      "request": "launch",
+      "mainClass": "time_complexity.FindUniqueElement",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "ArrayEquilibriumIndex",
+      "request": "launch",
+      "mainClass": "time_complexity.ArrayEquilibriumIndex",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "ArrayIntersection",
+      "request": "launch",
+      "mainClass": "time_complexity.ArrayIntersection",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CompressTheString",
+      "request": "launch",
+      "mainClass": "CompressTheString",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "sum",
+      "request": "launch",
+      "mainClass": "strings.sum",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CompressTheString",
+      "request": "launch",
+      "mainClass": "strings.CompressTheString",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "HighestOccuringCharacter",
+      "request": "launch",
+      "mainClass": "strings.HighestOccuringCharacter",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "RemoveCharacter",
+      "request": "launch",
+      "mainClass": "strings.RemoveCharacter",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "ReverseEachWord",
+      "request": "launch",
+      "mainClass": "strings.ReverseEachWord",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "RemoveConsecutiveDuplicates",
+      "request": "launch",
+      "mainClass": "strings.RemoveConsecutiveDuplicates",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CheckPermutation",
+      "request": "launch",
+      "mainClass": "strings.CheckPermutation",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "ReverseStringWordwise",
+      "request": "launch",
+      "mainClass": "strings.ReverseStringWordwise",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "AllSubstrings",
+      "request": "launch",
+      "mainClass": "strings.AllSubstrings",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "StringPalindrome",
+      "request": "launch",
+      "mainClass": "strings.StringPalindrome",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CountWords",
+      "request": "launch",
+      "mainClass": "strings.CountWords",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PrintSpiral",
+      "request": "launch",
+      "mainClass": "arrays.PrintSpiral",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PrintLikeAWave",
+      "request": "launch",
+      "mainClass": "arrays.PrintLikeAWave",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "TotalSumBondariesDiagonals",
+      "request": "launch",
+      "mainClass": "arrays.TotalSumBondariesDiagonals",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "LargestRowOrColumn",
+      "request": "launch",
+      "mainClass": "arrays.LargestRowOrColumn",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "RowWiseSum",
+      "request": "launch",
+      "mainClass": "arrays.RowWiseSum",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "SumOfTwoArrays",
+      "request": "launch",
+      "mainClass": "arrays.SumOfTwoArrays",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "Sort012",
+      "request": "launch",
+      "mainClass": "arrays.Sort012",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CheckArrayRotation",
+      "request": "launch",
+      "mainClass": "arrays.CheckArrayRotation",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "SecondLargestInArray",
+      "request": "launch",
+      "mainClass": "arrays.SecondLargestInArray",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "RotateArray",
+      "request": "launch",
+      "mainClass": "arrays.RotateArray",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PushZeroesToEnd",
+      "request": "launch",
+      "mainClass": "arrays.PushZeroesToEnd",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "MergeTwoSortedArrays",
+      "request": "launch",
+      "mainClass": "arrays.MergeTwoSortedArrays",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "InsertionSort",
+      "request": "launch",
+      "mainClass": "arrays.InsertionSort",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "arrays.BubbleSort",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "arrays.SelectionSort",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "arrays.BinarySearch",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "TripletSum",
+      "request": "launch",
+      "mainClass": "arrays.TripletSum",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PairSum",
+      "request": "launch",
+      "mainClass": "arrays.PairSum",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "FindDuplicate",
+      "request": "launch",
+      "mainClass": "arrays.FindDuplicate",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "FindUnique",
+      "request": "launch",
+      "mainClass": "arrays.FindUnique",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "SwapAlternate",
+      "request": "launch",
+      "mainClass": "arrays.SwapAlternate",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "ArrangeNumbers",
+      "request": "launch",
+      "mainClass": "arrays.ArrangeNumbers",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "ArrangeNumbersInArray",
+      "request": "launch",
+      "mainClass": "arrays.ArrangeNumbersInArray",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "arrays.LinearSearch",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "MaximumNumber",
+      "request": "launch",
+      "mainClass": "test2.MaximumNumber",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "Probability",
+      "request": "launch",
+      "mainClass": "test2.Probability",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "NumberStarPattern",
+      "request": "launch",
+      "mainClass": "test2.NumberStarPattern",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "FibonacciMember",
+      "request": "launch",
+      "mainClass": "functions_and_scope.FibonacciMember",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "FahrenheitToCelsiusTable",
+      "request": "launch",
+      "mainClass": "functions_and_scope.FahrenheitToCelsiusTable",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "NumberStarPattern1",
+      "request": "launch",
+      "mainClass": "operators_and_for_loop.NumberStarPattern1",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CheckAP",
+      "request": "launch",
+      "mainClass": "operators_and_for_loop.CheckAP",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PalindromeNumber",
+      "request": "launch",
+      "mainClass": "operators_and_for_loop.PalindromeNumber",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CheckNumberSequence",
+      "request": "launch",
+      "mainClass": "operators_and_for_loop.CheckNumberSequence",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "SquareRootIntegral",
+      "request": "launch",
+      "mainClass": "operators_and_for_loop.SquareRootIntegral",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "DecimalToBinary",
+      "request": "launch",
+      "mainClass": "operators_and_for_loop.DecimalToBinary",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "BinaryToDecimal",
+      "request": "launch",
+      "mainClass": "operators_and_for_loop.BinaryToDecimal",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "ReverseOfANumber",
+      "request": "launch",
+      "mainClass": "operators_and_for_loop.ReverseOfANumber",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "conditionals_and_loops.Calculator",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CharacterCase",
+      "request": "launch",
+      "mainClass": "conditionals_and_loops.CharacterCase",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "Factors",
+      "request": "launch",
+      "mainClass": "conditionals_and_loops.Factors",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "FahrenheitToCelcius",
+      "request": "launch",
+      "mainClass": "conditionals_and_loops.FahrenheitToCelcius",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "MultiplicationTable",
+      "request": "launch",
+      "mainClass": "conditionals_and_loops.MultiplicationTable",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PowerOfNumber",
+      "request": "launch",
+      "mainClass": "conditionals_and_loops.PowerOfNumber",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "SumOfEvenOdd",
+      "request": "launch",
+      "mainClass": "conditionals_and_loops.SumOfEvenOdd",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "TotalSalary",
+      "request": "launch",
+      "mainClass": "conditionals_and_loops.TotalSalary",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "AdjacencyList",
+      "request": "launch",
+      "mainClass": "graph.AdjacencyList",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "AverageMarks",
+      "request": "launch",
+      "mainClass": "graph.AverageMarks",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "BFS",
+      "request": "launch",
+      "mainClass": "graph.BFS",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "BFS2",
+      "request": "launch",
+      "mainClass": "graph.BFS2",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "BellmanFordAlgo",
+      "request": "launch",
+      "mainClass": "graph.BellmanFordAlgo",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "Bridge",
+      "request": "launch",
+      "mainClass": "graph.Bridge",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CycleDetectionDG",
+      "request": "launch",
+      "mainClass": "graph.CycleDetectionDG",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CycleDetectionUG",
+      "request": "launch",
+      "mainClass": "graph.CycleDetectionUG",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "DFS",
+      "request": "launch",
+      "mainClass": "graph.DFS",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "DijkstrasAlgo",
+      "request": "launch",
+      "mainClass": "graph.DijkstrasAlgo",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "FirstClass",
+      "request": "launch",
+      "mainClass": "graph.FirstClass",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "KosarajusAlgo",
+      "request": "launch",
+      "mainClass": "graph.KosarajusAlgo",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PrimsAlgo",
+      "request": "launch",
+      "mainClass": "graph.PrimsAlgo",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PrintAllPath",
+      "request": "launch",
+      "mainClass": "graph.PrintAllPath",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "TarjansAlgo",
+      "request": "launch",
+      "mainClass": "graph.TarjansAlgo",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "TopologicalSort",
+      "request": "launch",
+      "mainClass": "graph.TopologicalSort",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "AverageMarks(1)",
+      "request": "launch",
+      "mainClass": "lecture2.AverageMarks",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "AllPrimeNumbers",
+      "request": "launch",
+      "mainClass": "operators_and_for_loop.AllPrimeNumbers",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "NthFinonacciNumber",
+      "request": "launch",
+      "mainClass": "operators_and_for_loop.NthFinonacciNumber",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "SumOrProduct",
+      "request": "launch",
+      "mainClass": "operators_and_for_loop.SumOrProduct",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "TermsOfAP",
+      "request": "launch",
+      "mainClass": "operators_and_for_loop.TermsOfAP",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "AlphaPattern",
+      "request": "launch",
+      "mainClass": "patterns.AlphaPattern",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "CharacterPattern",
+      "request": "launch",
+      "mainClass": "patterns.CharacterPattern",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "DiamondOfStars",
+      "request": "launch",
+      "mainClass": "patterns.DiamondOfStars",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "HalfDiamondPattern",
+      "request": "launch",
+      "mainClass": "patterns.HalfDiamondPattern",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "InterestingAlphabets",
+      "request": "launch",
+      "mainClass": "patterns.InterestingAlphabets",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "InvertedNumberPattern",
+      "request": "launch",
+      "mainClass": "patterns.InvertedNumberPattern",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "MirrorNumberPattern",
+      "request": "launch",
+      "mainClass": "patterns.MirrorNumberPattern",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "OddSquare",
+      "request": "launch",
+      "mainClass": "patterns.OddSquare",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "ParallelogramPattern",
+      "request": "launch",
+      "mainClass": "patterns.ParallelogramPattern",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "PatternTriangleOfNumbers",
+      "request": "launch",
+      "mainClass": "patterns.PatternTriangleOfNumbers",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNumberPattern",
+      "request": "launch",
+      "mainClass": "patterns.ReverseNumberPattern",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "SquarePattern",
+      "request": "launch",
+      "mainClass": "patterns.SquarePattern",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "StarPattern",
+      "request": "launch",
+      "mainClass": "patterns.StarPattern",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "SumPattern",
+      "request": "launch",
+      "mainClass": "patterns.SumPattern",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "TriangleNumberPattern",
+      "request": "launch",
+      "mainClass": "patterns.TriangleNumberPattern",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    },
+    {
+      "type": "java",
+      "name": "TriangleStarPattern",
+      "request": "launch",
+      "mainClass": "patterns.TriangleStarPattern",
+      "projectName": "DSA with JAVA Code_b77f8958"
+    }
+  ]
+}
